@@ -17,6 +17,6 @@ Flickr8k Dataset : https://www.kaggle.com/nunenuh/flickr8k <br/>
 
 2. Download the dataset in the link above, unzip it then put it in the data folder 
 
-3. Install all the requirements in requirement.txt 
+3. Install all the requirements in requirements.txt 
 
 4. Open the train_inference.ipynb and train, test the model
