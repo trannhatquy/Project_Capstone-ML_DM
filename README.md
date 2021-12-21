@@ -1,2 +1,3 @@
 # Project_Capstone-ML_DM
-Basic Image Captioning Model using CNN and LSTM
+
+Basic Image Captioning Model with Pytorch Lightning using CNN and LSTM
