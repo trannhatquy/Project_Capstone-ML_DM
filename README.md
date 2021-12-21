@@ -7,3 +7,12 @@ This repository show how to apply neural network (CNN, LSTM) using pytorch light
 ## Dataset Source
 
 Flickr8k Dataset : https://www.kaggle.com/nunenuh/flickr8k <br/>
+
+## How to run the project 
+1. Clone the repository 
+
+2. Download the dataset in the link above, unzip it then put it in the data folder 
+
+3. Install all the requirements in requirement.txt 
+
+4. Open the train_inference.ipynb and train, test the model
