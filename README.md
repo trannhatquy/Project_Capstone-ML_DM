@@ -6,6 +6,8 @@ This repository show how to apply neural network (CNN, LSTM) using pytorch light
 <br/> <br/>
 
 <img src="utility/model.png"/>
+<br/><br/>
+
 ## Dataset Source
 
 Flickr8k Dataset : https://www.kaggle.com/nunenuh/flickr8k <br/>
