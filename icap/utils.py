@@ -58,6 +58,8 @@ class ImageCaptionTest(object):
         print(f'predicted    : {result[0]}')
         print(f'ground truth : {self.clean_sentence(ground_truth.tolist())}')
         plt.imshow(images.squeeze().permute(1,2,0), cmap='gray')
+        
+        return result[0], self.clean_sentence(ground_truth.tolist())
     
 # def clean_sentence(sentence_index, vocab):
 #     sentence = ""
